@@ -75,6 +75,5 @@ const getPhraseById = (id, callback) => {
 module.exports = {
   getAllPhrases,
   updatePhrase,
-  addPhrase,
-  getPhraseById 
+  addPhrase
 };
